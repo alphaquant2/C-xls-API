@@ -1,4 +1,4 @@
-# ConsoleApplication2This programme demonstrates an API wrapper allowing to write Excel files using an intuitive grammar similar to the stdio formulation
+# This programme demonstrates an API wrapper allowing to write Excel files using an intuitive grammar similar to the stdio formulation
 
 std::cout << variable << std::endl;
 
